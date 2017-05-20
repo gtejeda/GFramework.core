@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>byteGiant.GFramework.Core</id>
+    <version>$version$</version>
+    <title>GFramework.Core</title>
+    <authors>Geovanny Tejeda</authors>
+    <owners>Geovanny Tejeda</owners>
+    <projectUrl>http://www.bytegiant.com/gframework</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Software Development Framework that takes some concepts from CQRS and DDD and allows for a very streamlined version of those concepts</description>
+    <releaseNotes>
+      
+    </releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Development Framework DDD CQRS Commands Queries</tags>
+  </metadata>
+</package>
